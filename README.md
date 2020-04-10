@@ -23,7 +23,6 @@ function draw() {
     box.velocityY = 3;
     box.shapeColor = "#b97a57";
     BoxGroup.add(box);
- 
  }
   drawSprites();
 }
